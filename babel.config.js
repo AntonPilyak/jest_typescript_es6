@@ -8,7 +8,6 @@ module.exports = {
                 },
                 modules: 'cjs'
             }
-        ],
-        '@babel/preset-typescript'
+        ]
     ]
 };
